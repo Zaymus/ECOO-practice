@@ -5,6 +5,7 @@
             "name": "CodeLens (Launch) - willowsWildRide",
             "request": "launch",
             "mainClass": "WillowsWildRide.willowsWildRide",
+            "console": "integratedTerminal",
             "projectName": "ECOO-practice_b8015170"
         }
     ]

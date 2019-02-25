@@ -2,9 +2,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - willowsWildRide",
+            "name": "CodeLens (Launch) - MissingArt",
             "request": "launch",
-            "mainClass": "WillowsWildRide.willowsWildRide",
+            "mainClass": "MissingArt.MissingArt",
+            "console": "integratedTerminal",
             "projectName": "ECOO-practice_b8015170"
         }
     ]
