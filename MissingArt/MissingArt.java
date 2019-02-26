@@ -20,9 +20,10 @@ class MissingArt
         {
             sc = new Scanner(input);
             String line = sc.nextLine();
-            String dataCodes[] = line.split(" ");
+            String[] dataCodes = line.split(" ");
             int digit;
             String newDataCode = "";
+            String[] newDataCodes;
 
             n = Integer.parseInt(dataCodes[0]);
             x = Integer.parseInt(dataCodes[1]);
